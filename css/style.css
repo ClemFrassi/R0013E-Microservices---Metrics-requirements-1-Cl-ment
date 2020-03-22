@@ -1,0 +1,44 @@
+#formdiv {
+	font-family: Open Sans;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#submit {
+	font-family: Open Sans;
+	margin-top: 20px;
+	font-size: 18px;
+	background: #5364e8;
+	border-radius: 10px;
+}
+
+#url {
+	font-family: Open Sans;
+	height: 30px;
+	width: 300px;
+	border-radius: 10px;
+	border-color: #5364e8;
+}
+
+#label {
+	font-family: Open Sans;
+	vertical-align: middle;
+}
+
+.wrapper {
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+h1 {
+	font-size: 20px;
+	font-family: Open Sans;
+	color: #5364e8;
+}
+
+p {
+	font-size: 12px;
+	font-family: Open Sans;
+	line-height : 150%;
+}
